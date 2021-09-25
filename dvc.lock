@@ -7,8 +7,8 @@ stages:
       md5: ccc8d3507eb151f53f760d36abdef888
       size: 91998
     - path: src/get_data.py
-      md5: 05410381480ed9f203c35f54b0cbee3e
-      size: 641
+      md5: f049b22cf170c8921a519c38fa38d529
+      size: 637
     - path: src/load_data.py
       md5: 52f839b7753ebbffe43683e3287a63c3
       size: 569
